@@ -9,6 +9,5 @@ Images used in my osu! beatmap descriptions (hosted here because osu!'s image pr
 | Shishigami Leona - Christmas Song (alt. copy) | `christmas-song/christmas_20220817180218.gif` | `[img]https://raw.githubusercontent.com/Dropinx/osu-assets/main/christmas-song/christmas_20220817180218.gif[/img]` |
 | Aline Barros - Eu Li Na Biblia | `eu-li-na-biblia/eulinabiblia2.gif` | `[img]https://raw.githubusercontent.com/Dropinx/osu-assets/main/eu-li-na-biblia/eulinabiblia2.gif[/img]` |
 | DAZBEE - Heroine | `dazbee-heroine/dazbeeheroine.gif` | `[img]https://raw.githubusercontent.com/Dropinx/osu-assets/main/dazbee-heroine/dazbeeheroine.gif[/img]` |
- from Wayback Machine captures of osu!'s image proxy after tinypic.host went offline.
 
 Recovered after tinypic.host went offline: the Christmas Song and Eu Li Na Biblia GIFs come from Wayback Machine captures of osu!'s image proxy; the DAZBEE - Heroine GIF comes from osu!'s own archive (imgur-archive.ppy.sh).
