@@ -16,3 +16,7 @@ Images used in my osu! beatmap descriptions (hosted here because osu!'s image pr
 | miraie x YUJU x blackwinterwells - memories | `memories/memories.gif` | `[img]https://raw.githubusercontent.com/Dropinx/osu-assets/main/memories/memories.gif[/img]` |
 
 Recovered after tinypic.host went offline: the Christmas Song, Eu Li Na Biblia and Dada Gugu GIFs come from Wayback Machine captures of osu!'s image proxy; the DAZBEE - Heroine GIF comes from osu!'s own archive (imgur-archive.ppy.sh). The empty and memories banners were lost and recreated from their original artwork.
+
+## Credits
+
+The background art of the Geoxor - Stardust banners (`stardust/`) is © [Rune Xiao](https://www.pixiv.net/users/44473246) ([original artwork](https://www.pixiv.net/en/artworks/131263217)), used with the artist's permission for non-commercial use with credit. It is not covered by any license in this repository; do not reuse it without the artist's permission.
