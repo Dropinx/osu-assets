@@ -6,6 +6,7 @@ Images used in my osu! beatmap descriptions (hosted here because osu!'s image pr
 |---|---|---|
 | Geoxor - Stardust | `stardust/banner.png` | `[img]https://raw.githubusercontent.com/Dropinx/osu-assets/main/stardust/banner.png[/img]` |
 | Geoxor - Stardust (animated) | `stardust/geoxor-stardust-840x250.gif` | `[img]https://raw.githubusercontent.com/Dropinx/osu-assets/main/stardust/geoxor-stardust-840x250.gif[/img]` |
+| Geoxor - Stardust (animated, 1240x300) | `stardust/geoxor-stardust-1240x300.gif` | `[img]https://raw.githubusercontent.com/Dropinx/osu-assets/main/stardust/geoxor-stardust-1240x300.gif[/img]` |
 | Shishigami Leona - Christmas Song | `christmas-song/christmas_20231010141605.gif` | `[img]https://raw.githubusercontent.com/Dropinx/osu-assets/main/christmas-song/christmas_20231010141605.gif[/img]` |
 | Shishigami Leona - Christmas Song (alt. copy) | `christmas-song/christmas_20220817180218.gif` | `[img]https://raw.githubusercontent.com/Dropinx/osu-assets/main/christmas-song/christmas_20220817180218.gif[/img]` |
 | Aline Barros - Eu Li Na Biblia | `eu-li-na-biblia/eulinabiblia2.gif` | `[img]https://raw.githubusercontent.com/Dropinx/osu-assets/main/eu-li-na-biblia/eulinabiblia2.gif[/img]` |
