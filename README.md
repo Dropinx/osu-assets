@@ -19,4 +19,4 @@ Recovered after tinypic.host went offline: the Christmas Song, Eu Li Na Biblia a
 
 ## Credits
 
-The background art of the Geoxor - Stardust banners (`stardust/`) is © [Rune Xiao](https://www.pixiv.net/users/44473246) ([original artwork](https://www.pixiv.net/en/artworks/131263217)), used with the artist's permission for non-commercial use with credit. It is not covered by any license in this repository; do not reuse it without the artist's permission.
+The background art of the Geoxor - Stardust banners (`stardust/`) is © [Rune Xiao](https://www.pixiv.net/users/44473246) ([original artwork](https://www.pixiv.net/en/artworks/131263217)), used with the artist's permission ([proof](https://imgur.com/a/Lk63a2H)) for non-commercial use with credit. It is not covered by any license in this repository; do not reuse it without the artist's permission.
